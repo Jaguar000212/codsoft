@@ -6,12 +6,12 @@ I certify that the code is completely mine and there has been no plagiarism.
 
 ## Completed Tasks :
 - #### Task 1 - Create a Number Guessing Game in C++<br>
-  I simply used ctime library to generate the random number. Made high-low hints to make it more interactive.
+  I simply used `ctime` library to generate the random number. Made high-low hints to make it more interactive.
 
 - #### Task 2 - Create a Simple Calculator in C++<br>
   Took inputs for two numbers from the user and the operator as well, then calculated the result.
 
-- #### Task 4 - To-Do List in C++<br>
+- #### Task 4 - Create a To-Do List in C++<br>
   Created the list to which we can add, deleted items. We can save and load the list as well.
 
 ---
